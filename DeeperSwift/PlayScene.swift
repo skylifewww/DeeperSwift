@@ -127,6 +127,7 @@ class PlayScene: SKScene {
                     var newPosition = CGPointMake(CGRectGetMidX(self.deeper.frame), CGRectGetMidY(self.deeper.frame))
                     self.deeper.runAction(reActionDeeper)
                     self.deeper.position = newPosition
+                    println("Hello!!!")
                 })
             }
             

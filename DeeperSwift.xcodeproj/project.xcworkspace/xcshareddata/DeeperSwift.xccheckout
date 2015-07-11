@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ACEFE818-9542-4D26-A4D4-9A5744A2AD6B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DeeperSwift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F8E4DD7134BCF8CD684F506757C3A3EC5FFCDD6B</key>
+		<string>https://github.com/skylifewww/DeeperSwift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DeeperSwift.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F8E4DD7134BCF8CD684F506757C3A3EC5FFCDD6B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/skylifewww/DeeperSwift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F8E4DD7134BCF8CD684F506757C3A3EC5FFCDD6B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F8E4DD7134BCF8CD684F506757C3A3EC5FFCDD6B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DeeperSwift</string>
+		</dict>
+	</array>
+</dict>
+</plist>

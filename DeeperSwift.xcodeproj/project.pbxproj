@@ -15,6 +15,8 @@
 		2C168FA21B4F2A5E00BD641B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C168FA11B4F2A5E00BD641B /* Images.xcassets */; };
 		2C168FA51B4F2A5E00BD641B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2C168FA31B4F2A5E00BD641B /* LaunchScreen.xib */; };
 		2C168FB11B4F2A5E00BD641B /* DeeperSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C168FB01B4F2A5E00BD641B /* DeeperSwiftTests.swift */; };
+		2C168FBB1B4F2B5000BD641B /* PlayScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C168FBA1B4F2B5000BD641B /* PlayScene.swift */; };
+		2C168FBD1B4F2D0000BD641B /* Deeper in Resources */ = {isa = PBXBuildFile; fileRef = 2C168FBC1B4F2D0000BD641B /* Deeper */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,8 @@
 		2C168FAA1B4F2A5E00BD641B /* DeeperSwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DeeperSwiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C168FAF1B4F2A5E00BD641B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2C168FB01B4F2A5E00BD641B /* DeeperSwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeeperSwiftTests.swift; sourceTree = "<group>"; };
+		2C168FBA1B4F2B5000BD641B /* PlayScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayScene.swift; sourceTree = "<group>"; };
+		2C168FBC1B4F2D0000BD641B /* Deeper */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Deeper; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,9 +88,11 @@
 				2C168F961B4F2A5D00BD641B /* AppDelegate.swift */,
 				2C168F981B4F2A5D00BD641B /* GameScene.sks */,
 				2C168F9A1B4F2A5E00BD641B /* GameScene.swift */,
+				2C168FBA1B4F2B5000BD641B /* PlayScene.swift */,
 				2C168F9C1B4F2A5E00BD641B /* GameViewController.swift */,
 				2C168F9E1B4F2A5E00BD641B /* Main.storyboard */,
 				2C168FA11B4F2A5E00BD641B /* Images.xcassets */,
+				2C168FBC1B4F2D0000BD641B /* Deeper */,
 				2C168FA31B4F2A5E00BD641B /* LaunchScreen.xib */,
 				2C168F941B4F2A5D00BD641B /* Supporting Files */,
 			);
@@ -198,6 +204,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C168FBD1B4F2D0000BD641B /* Deeper in Resources */,
 				2C168FA51B4F2A5E00BD641B /* LaunchScreen.xib in Resources */,
 				2C168FA21B4F2A5E00BD641B /* Images.xcassets in Resources */,
 				2C168F991B4F2A5D00BD641B /* GameScene.sks in Resources */,
@@ -221,6 +228,7 @@
 			files = (
 				2C168F9B1B4F2A5E00BD641B /* GameScene.swift in Sources */,
 				2C168F9D1B4F2A5E00BD641B /* GameViewController.swift in Sources */,
+				2C168FBB1B4F2B5000BD641B /* PlayScene.swift in Sources */,
 				2C168F971B4F2A5D00BD641B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
